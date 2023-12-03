@@ -1,4 +1,4 @@
-package com.dixit.soham.aoc.cubeconundrum;
+package com.dixit.soham.aoc.day2.cube.conundrum;
 
 import java.io.IOException;
 import java.util.ArrayList;
